@@ -57,14 +57,6 @@ A Spring Boot application for managing bank accounts. Features include deposits,
    http://localhost:8080
    ```
 
----
-
-## **CI/CD Pipeline**
-
-Automated with GitHub Actions:
-- Builds the app
-- Runs tests
-- Builds and pushes Docker image to Docker Hub
 
 ---
 
